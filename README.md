@@ -1,9 +1,17 @@
-### Hi there 👋
+## Olá, mundo! Seja Bem-vindx 🌍👋🏼🤙🏼.
+
+##Prazer, sou o Bueno Vital! Um cara que está se aventurando e se desafiando a cada dia neste universo da tecnologia 👨🏼‍💻🧐.
+
+**Contato**
+<p align = 'center'>
+    <a href="https://www.linkedin.com/in/bueno-vital/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <!--
-**vjbueno/vjbueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Atualmente estou aprendendo: Java, HTML, CSS, Git, GitHub e MySQL. 
+Contato:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bueno-vital/)](https://www.linkedin.com/in/bueno-vital/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
