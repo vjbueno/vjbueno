@@ -1,6 +1,6 @@
 ## Olá, mundo! Seja Bem-vindx 🌍👋🏼🤙🏼.
 
-##Prazer, sou o Bueno Vital! Um cara que está se aventurando e se desafiando a cada dia neste universo da tecnologia 👨🏼‍💻🧐.
+## Prazer, sou o Bueno Vital! Um cara que está se aventurando e se desafiando a cada dia neste universo da tecnologia 👨🏼‍💻🧐.
 
 
 <p align = 'center'>
