@@ -35,11 +35,11 @@
    <a href = "https://www.linkedin.com/in/bueno-vital">
    <img align="center" alt="java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
      
-    ![Snake animation](https://github.com/vjbueno/vjbueno/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/vjbueno/vjbueno/blob/output/github-contribution-grid-snake.svg)
    
      
      
-   
+
     
     
     
