@@ -29,10 +29,10 @@
       <img align="center" alt="javacript" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
   
   <h2 align="center"> Contact me </h2>
-    <a href = "mailto:buenovj@hotmail.com">
+    <a href = "mailto:@hotmail.com">
     <img align="center" alt="java" height="50" width="70" src="https://i.imgur.com/pvXZHwn.png">
       
-   <a href = "https://www.linkedin.com/in/bueno-vital">
+   <a href = "https://www.linkedin.com">
    <img align="center" alt="java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
      
    ![Snake animation](https://github.com/vjbueno/vjbueno/blob/output/github-contribution-grid-snake.svg)
